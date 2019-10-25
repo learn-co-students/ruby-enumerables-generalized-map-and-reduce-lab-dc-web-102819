@@ -1,1 +1,3 @@
-# Your Code Here
+def method_using_block { puts "hi" }
+
+end
